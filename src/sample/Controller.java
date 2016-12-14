@@ -47,7 +47,6 @@ public class Controller {
             e.printStackTrace();
         }
         stage.setTitle(file.getName());
-        System.out.println("Ok!");
     }
 
     public void saveAction(ActionEvent actionEvent) {
